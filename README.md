@@ -1,4 +1,4 @@
-# 4th Umpire
+# 12th-Man-IPL-Predictor
 
 This Django and Machine Learning powered Web app predicts and analyse IPL matches. It currently has three working model i.e 
 prediction of a match winner before toss, prediction of expected score of 1st inning at any point of time during the match 
