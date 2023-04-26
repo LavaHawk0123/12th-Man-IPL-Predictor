@@ -20,7 +20,7 @@ source bin/activate
 Clone the repository on your local environment <br>
 
 ```bash
-git clone https://github.com/LavaHawk0123/4th_umpire.git `
+git clone https://github.com/LavaHawk0123/12th-Man-IPL-Predictor.git `
 ```
 
 Navigate to the folder <br>
