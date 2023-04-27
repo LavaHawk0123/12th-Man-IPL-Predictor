@@ -63,3 +63,6 @@ This web-app is created for Microsoft Code Fun Do competition.
 ##### About Us Page
 ![About_Page](https://user-images.githubusercontent.com/75236655/234510225-63351882-c593-4e35-b526-91cf906d2df9.png)
 
+##### Gallery Page
+![Gallery](https://user-images.githubusercontent.com/75236655/234756601-faabc333-565b-4dd4-9b13-6634173f4f28.png)
+
