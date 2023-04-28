@@ -1,13 +1,15 @@
 # 12th-Man-IPL-Predictor
+The main problem that this project aims to solve is the need for an accurate and user-friendly IPL score prediction tool. With the increasing popularity of the IPL and the rise of fantasy sports, there is a growing demand for accurate predictions of match outcomes and player performances. However, the majority of available prediction tools either lack accuracy or are not user-friendly. Additionally, many of these tools require users to have an extensive knowledge of cricket statistics, which can be a barrier for casual fans.
 
-This Django and Machine Learning powered Web app predicts and analyse IPL matches. It currently has three working model i.e 
-prediction of a match winner before toss, prediction of expected score of 1st inning at any point of time during the match 
-and prediction of winner, match concluding over during the 2nd inning of the match.
-
-
-## Webpage
-Live project is available [here](https://fourth-umpire.herokuapp.com).
-
+Our project aims to address these issues by providing a web application that utilizes machine learning to generate accurate predictions for the score of IPL matches. The web application is designed to be intuitive and user-friendly, allowing fans to easily input data and receive accurate predictions. Our objectives include:
+<ol>
+<li>Developing a web application that accurately predicts the score of IPL matches based on various input parameters such as team, venue, and number of overs.
+<li>Designing a user-friendly interface that allows fans to easily input data and generate predictions without requiring extensive knowledge of cricket statistics.
+<li>Incorporating machine learning algorithms to continuously improve the accuracy of predictions and provide reliable insights into player and team performance.
+<li>Creating a platform that can be easily updated with the latest IPL data and statistics to ensure the accuracy of predictions.
+</ol>
+By achieving these objectives, we hope to provide IPL enthusiasts with a reliable and intuitive platform for making informed predictions and engaging with the tournament.
+We used Python and Django Framework to create the website. HTML and CSS is used for styling. We ensured that the user’s data is stored in the database and admin can access it. 
 
 ## Local Setup
 Create and activate a virtualenv:
@@ -25,7 +27,7 @@ git clone https://github.com/LavaHawk0123/12th-Man-IPL-Predictor.git `
 
 Navigate to the folder <br>
 ```bash 
-cd 4th_umpire/web
+cd 12th-Man-IPL-Predictor/web
 ```
 
 Install the required dependencies <br>
