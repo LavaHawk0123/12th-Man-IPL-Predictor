@@ -42,8 +42,7 @@ python3 manage.py runserver
 
 The web-app will be available at `127.0.0.1:8000` on your browser. 
 
-## About
-This web-app is created for Microsoft Code Fun Do competition.
+## About the ML Implementation : 
 
 - In this project we have tried various algorithms like Naive Bayes, SVM, Random Forest  for training our various machine learning models. And finally,we have used random forest algorithm. 
 
